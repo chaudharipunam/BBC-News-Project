@@ -1,0 +1,54 @@
+/* .header {
+    display: flex;
+    justify-content: space-between;
+}
+.search {
+    display: flex;
+}
+.s{
+    margin-left: 1rem;
+}
+.img2{
+    width: 3rem;
+    margin-top: 9%;
+    margin-left: 2rem;
+}
+button {
+    background-color: black;
+    color: white;
+    height: 2rem;
+    width: 8rem;
+}
+.home{
+    display: flex;
+    justify-content: center;
+}
+p{
+    margin-left: 10px;
+    font-weight: bolder;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+
+}
+p:hover{
+    background-color: rgb(231, 229, 226);
+}
+ */
+ .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+.start {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    margin-left: 19rem;
+}
+.para {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 20rem 0 20rem;
+}

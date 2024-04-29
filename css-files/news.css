@@ -1,0 +1,159 @@
+.header {
+   display: flex;
+   justify-content: space-between;
+}
+.searchbar{
+   height: 2rem;
+}
+button {
+   background-color: black;
+   color: white;
+   height: 2rem;
+   width: 4rem;
+
+}
+.btn {
+   background-color: white;
+   color: black;
+   border: none;
+}
+button:hover {
+   background-color: rgb(139, 143, 142);
+}
+.second-head,.third-head{
+   display: flex;
+   justify-content: center;
+   font-weight: 350;
+
+
+}
+.third-head{
+   color: rgb(94, 88, 88);
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: 100;
+}
+p{
+   margin-left: 10px;
+   font-weight: bolder;
+   margin-bottom: 0rem;
+   margin-top: 0rem;
+   color: rgb(67, 66, 66);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 100;
+
+
+}
+/* p:hover{
+   background-color: rgb(158, 160, 160);
+} */
+.news {
+   color: rgb(184, 23, 23);
+   font-size: 70px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin: 0;
+}
+.boldhr{
+   border: 1.5px solid black;
+}
+.main-img{
+   height: 55vh;
+   width: 90vh;
+}
+.aside2-img{
+   height: 25vh;
+   width: 45vh;
+}
+.section1{
+   display: flex;
+   justify-content: space-between;
+}
+.aside1,.main,.aside2 {
+   margin: 1rem;
+}
+a{
+   text-decoration: none;
+   color: black;
+}
+a:hover{
+   text-decoration: underline;
+   color: black;
+}
+.fourimg {
+   display: flex;
+}
+.simg{
+   height: 20vh;
+   width: 30vh;
+
+}
+.little-aside {
+   margin-right: 3rem;
+}
+.short-line {
+   width: 13rem;
+   margin-top: 2.5rem;
+}
+ .watch{
+   display: block;
+}
+
+.video-links {
+   display: flex;
+}
+.adv {
+   display: flex;
+   justify-content: center;
+   background-color:rgb(229, 225, 220) ;
+}
+.feature,.threeimg,.mostwatched {
+   display: flex;
+   justify-content: space-around;
+}
+.women {
+   height: 50vh;
+   width: 92vh;
+
+}
+.man {
+   height:25vh;
+   width:45vh;
+}
+.featur-heading,.feature-img,.black-man {
+   margin: 1rem;
+}
+.mainhr{
+   width: 4rem;
+}
+#man {
+   margin-left: 1.5rem;
+}
+.watch1 {
+   font-size: 2rem;
+   font-weight: bolder;
+   color: rgb(130, 135, 136);
+}
+.WATCH {
+   font-weight: bolder;
+}
+.bold {
+   font-weight: bold;
+
+}
+footer{
+   display: flex;
+   margin-top: 2rem;
+   margin-left: 1.5rem;
+}
+#spaceinhr{
+   margin-top: 8rem;
+}
+.boldd {
+   font-weight: bold;
+   margin: 0.5rem;
+}
+input {
+   width: 15rem
+}
+.dropdoun,.last {
+   margin-left: 1.5rem;
+}

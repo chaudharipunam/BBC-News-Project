@@ -1,0 +1,205 @@
+*{
+    box-sizing: border-box;
+
+ }
+
+ 
+ /* nandani */
+ a{
+   text-decoration: none;
+ }
+ 
+ a:hover{
+   text-decoration: underline;
+   color: black;
+
+ }
+ .Innovation {
+    display: flex;
+ }
+ .Ino1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ .seebtn {
+    height: 2rem;
+    width: 5rem;
+    border: 2px solid black;
+ }
+ .seebtn:hover {
+    background-color: rgb(114, 108, 108);
+    color: white;
+ }
+ .heading1,.ino-links{
+    color: black;
+ }
+ .heading1:hover,.ino-links:hover,.a:hover,.b:hover {
+    color: rgb(105, 101, 101);
+ }
+ .ino_img{
+    display: flex;
+    justify-content: space-between;
+ }
+ .science{
+    display: flex;
+    justify-content: space-between;
+ }
+
+
+.second{
+    margin-right: 28rem;
+}
+.img1,.img2 {
+    height: 55vh;
+    width:95vh;
+}
+.black{
+    background-color: rgb(28, 24, 24);
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+    height: 28rem;
+}
+.scroll {
+   height: 25vh;
+   width: 50vh;
+   margin: 40px 40px 0;
+}
+
+
+.scroll-link {
+   display: flex;
+}
+.hr{
+    position: relative;
+    top: 1.7rem;
+    margin-left: 2.5rem;
+    width: 75rem;
+}
+.whitish{
+    color: white;
+}
+.whitish:hover{
+    color: rgb(165, 192, 137);
+}
+
+.sport {
+    display: flex;
+ }
+ .sport1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ .seebtn {
+    height: 2rem;
+    width: 5rem;
+    border: 2px solid black;
+ }
+ .seebtn:hover {
+    background-color: rgb(114, 108, 108);
+    color: white;
+ }
+ .sport-head,.spo-links{
+    color: black;
+ }
+ .sport-head:hover,.spo-links:hover{
+    color: rgb(105, 101, 101);
+ }
+ .sport_img,.sport_deadline{
+    display: flex;
+    justify-content: space-between;
+ }
+ .sport_deadline {
+    margin-right: 7rem;
+ }
+
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: black;
+
+}
+.Business,.earth {
+   display: flex;
+
+}
+
+.business-heading,.earth-heading {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   margin-left: 1rem;
+}
+.seebtn {
+   height: 2rem;
+   width: 5rem;
+   border: 2px solid black;
+}
+.seebtn:hover {
+   background-color: rgb(114, 108, 108);
+   color: white;
+}
+.heading1,a{
+   color: black;
+}
+.heading1:hover,a:hover{
+   color: rgb(105, 101, 101);
+}
+.business-img{
+   display: flex;
+   justify-content: space-between;
+}
+.busi-links,.ino_links,.earth-links,.sport_links {
+   display: flex;
+}
+.e,.f,.c,.d,.j{
+   margin:5px;
+}
+
+.img1,.img2,.img-earth{
+   height: 30em;
+}
+
+.Culture{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.cul-heading {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: column;
+  
+}
+.cul-links {
+   display:flex
+}
+.a1,.a2,.a3,.a4,.a5 {
+   margin: 5px;
+}
+.scroll-img{
+  display: flex;
+  justify-content: space-around;
+}
+.img-1,.img-2,.img-3{
+  height: 14.5rem;
+}
+.bu-img,.cul_img{
+   height: 70vh;
+   width: 130vh;
+}
+#scroll{
+   margin-left: 40px;
+}
+.short-hr{
+   width: 20rem;
+}
+
+
